@@ -1,0 +1,19 @@
+title: Shakeel Gavioli-Akilagun
+email: s.a.gavioli-akilagun@lse.ac.uk
+baseurl: "GAVIOLIA/" 
+url: "http://personal.lse.ac.uk/GAVIOLIA/"
+twitter_username: statsdeptlse
+github_username:  Shakeel95
+linkedin_username: shakeelga 
+
+header_pages:
+  - index.markdown
+  - research.markdown
+  - collaborate.markdown
+  - lost.markdown
+
+
+# Build settings
+theme: jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
