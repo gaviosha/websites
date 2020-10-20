@@ -1,5 +1,5 @@
 ﻿* {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Helvetica;
 }
 
 html body {
@@ -101,7 +101,7 @@ a.text-link, a.text-link:link, a.text-link:visited, a.text-link:hover, a.text-li
 .main-body {
     font-weight: bold;
     padding: 1em;
-    font-family: 'Arial Rounded MT';
+    font-family: Helvetica;
     line-height: 130%;
 }
 
