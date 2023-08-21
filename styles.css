@@ -1,0 +1,15 @@
+a.link-a, a.link-a, a.link-a, a.link-a, a.link-a:focus, a.link-a:active {
+    color: red;
+    text-decoration: none;
+	text-decoration: underline;
+}
+
+a.link-b, a.link-b, a.link-b, a.link-b, a.link-b:focus, a.link-b:active {
+    color: red;
+    text-decoration: none;
+    background-color: rgba(255,0,0,0.1);
+}
+
+.photo {
+    border-radius: 49%;
+}
