@@ -2,7 +2,7 @@
 
 A repo for my webistes. Don't forget, to sync up do: 
 
-```zsh
+```bash
 rsync -a /dir username@remote_host:destination_directory
 ```
 
