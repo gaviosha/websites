@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width-device-width, initial-scale=1.0" charset="utf-8">
+    <title>Shakeel Gavioli-Akilagun</title>
+    <link rel="stylesheet" href="styles.css">
+<div class="container">
+</head>
+<body>
+<table style="width:100%">
+<tbody><tr>
+<td width="10%"> </td>
+<td width="40%">
+<div>
+<strong><h1>Shakeel Gavioli-Akilagun</h1></strong>
+</div>
+<div>
+<a><strong>PhD Student</strong></a><br>
+<a>Department of Statistics</a><br>
+<a>London School of Economics and Political Science</a><br>
+<a><b>Office:</b> Columbia House, room 8.13</a><br>
+<a><b>email:</b> &ltS&gt&ltdot&ltA&gt&ltdot&gt&ltlast-name&gt@lse.ac.uk</a><br>
+</div>
+</td>
+<td width="10%"> </td>
+<td width="40%">
+<img src="img/shakeel.jpg" alt="Shakeel Gavioli-Akilagun" class="photo" width="100%" height=auto/>
+</td>
+</tr>
+</tbody></table>
+
+<table style="width:100%">
+<tbody><tr>
+<td width="10%"> </td>
+<td width="80%">
+  
+  <div><br> Hello! Welcome to Shakeel's academic website. I am a PhD student in Statistics at the London School of Economics and Political Science; I am part of the <a href="http://www.lse.ac.uk/Statistics/Research/Time-Series-and-Statistical-Learning" class="link-a">Time Series and Statistical Learning</a> research group, and am fortunate to be supervised by <a href="http://stats.lse.ac.uk/fryzlewicz/" class="link-a">Professor Piotr Fryzlewicz</a>. Some of my research interests include:
+  </div>
+  
+  <ul>
+  	<li>Multiscale statistical modeling</li>
+  	<li>Change points and feature detection</li>
+  	<li>Aspects of causal inference</li>
+  </ul>
+  
+  <div>A recent version of my CV can be found <a class="link-a" href="files/academic-cv.pdf">here</a>.</div>
+
+<td width="10%"> </td>
+</tr>
+</tbody></table>
+
+<table style="width:100%"><tbody><tr>
+  <td width="10%"> </td>
+  <td width="80%">
+    <h2><br>Research:</h2>
+  </td>
+  <td width="10%"> </td>
+</tr></tbody></table>
+
+<table style="width:100%"><tbody><tr>
+  <td width="12%"> </td>
+  <td width="78%">
+  
+    <div><b>Fast and Optimal Inference for Change Points in Piecewise Polynomials via Differencing</b>. S. Gavioli-Akilagun and P. Fryzlewicz (2023). <i>In submission</i> [<a href="https://arxiv.org/pdf/2307.03639.pdf" class="link-b">arXiv</a>; <a href="https://github.com/gaviosha/ChangePointInference" class="link-b">R package</a>; <a href="https://github.com/gaviosha/fast-inference-num-ex" class="link-b">numerical examples</a>]
+    </div>
+    <br>
+    
+    <div style="opacity:0.5">
+    	<b>Invited discussion of "Automatic Change-Point Detection in Time Series via Deep Learning" by Li, Fearnhead, Fryzlewicz, and Wang</b>. S. Gavioli-Akilagun (2023)
+    </div>
+    <br>
+    
+    <div style="opacity:0.5">
+    	<b>Robust Inference for Change Points in Piecewise Polynomials using Confidence Sets</b>. S. Gavioli-Akilagun and P. Fryzlewicz. <i>Manuscript in preparation</i>
+    </div>
+    <br>
+    
+	<div style="opacity:0.5">
+		<b>Recovering Causal Structures in Change Point Regressions via Hawkes Process Representation</b>. S. Gavioli-Akilagun and P. Fryzlewicz. <i>Manuscript in preparation</i>
+    </div>
+    
+  </td>
+  <td width="10%"> </td>
+</tr></tbody></table>
+
+<table style="width:100%"><tbody><tr>
+  <td width="10%"> </td>
+  <td width="80%">
+    <h2><br>Recent and upcoming talks:</h2>
+    <ul>
+    	<li>CMStatistics session on "structured multivariate and functional data" (HTW Berlin), <i>invited talk, December 2023</i> </li>
+    	<li>Charles University Advanced Statistics Seminars, <i>invited talk, March 2023</i></li>
+    	<li>Paris-Saclay Change-Point Workshop, <i>participant, January 2023</i></li>
+    	<li>StatScale ECR Meeting on "Recent Developments in Statistical Scalability and Streaming Data" (Brighton), <i>invited talk, December 2022</i></li>
+    </ul>
+  </td>
+  <td width="10%"> </td>
+</tr></tbody></table>
+
+<table style="width:100%"><tbody><tr>
+  <td width="10%"> </td>
+  <td width="80%">
+    <h2><br>Teaching:</h2>
+    <div>
+    This academic year (2023/24) I am the GTA for the following courses; office hours TBA.  
+    </div>
+    <ul>
+    	<li>ST226: Actuarial Investigations, Financial [<a href="https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST226.htm" class="link-b">course description</a>]</li>
+    	<li>ST445: Managing and Visualising Data [<a href="https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST445.htm" class="link-b">course description</a>]</li>
+		<li>ST446: Distributed Computing for Big Data [<a href="https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/ST/2020_ST446.htm" class="link-b">course description</a>]</li>
+		<li>ST457: Graph Data Analytics and Representation Learning [<a href="https://www.lse.ac.uk/resources/calendar2022-2023/courseGuides/ST/2022_ST457.htm" class="link-b">course description</a>]</li>
+    </ul>
+  </td>
+  <td width="10%"> </td>
+</tr></tbody></table>
+
+</body></html>
+
